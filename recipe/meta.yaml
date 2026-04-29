@@ -37,9 +37,9 @@ tests:
 about:
   home: https://github.com/Azure/azure-sdk-for-python
   summary: Microsoft Azure Management Groups Client Library for Python
-  license: Apache-2.0
-  license_file: LICENSE.txt
-  license_family: Apache
+  license: MIT
+  license_file: LICENSE
+  license_family: MIT
   description: Microsoft Azure Management Groups Client Library for Python
   dev_url: https://github.com/Azure/azure-sdk-for-python
   doc_url: https://github.com/Azure/azure-sdk-for-python
